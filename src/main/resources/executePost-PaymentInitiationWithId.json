@@ -1,0 +1,16 @@
+{
+  "payerProductInstanceReference" : "PPIR7649",
+  "amount" : "$5000",
+  "paymentRequesteReference" : "PR77992",
+  "payeeReference" : "PAEE5007",
+  "paymentFeesCharges" : "$20",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "valueDate" : "2018-08-28",
+  "customerReference" : "CSRE3456",
+  "payerReference" : "PYRE5345",
+  "currency" : "USD",
+  "paymentRequest" : "PR7649",
+  "paymentMechanism" : "SWIFT"
+}

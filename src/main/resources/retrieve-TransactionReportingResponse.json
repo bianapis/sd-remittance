@@ -1,0 +1,14 @@
+{
+  "amount" : "$5000",
+  "payeeReference" : "PAEE5007",
+  "transactionStatus" : "Success/Failure",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "customerReference" : "CSRE3456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "reportingRequestReference" : "PMRE5850",
+  "currency" : "USD",
+  "valueDate" : "2018-08-28",
+  "paymentRequestReference" : "PMRE5850",
+  "paymentMechanism" : "SWIFT"
+}

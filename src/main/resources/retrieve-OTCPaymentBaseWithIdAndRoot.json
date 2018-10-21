@@ -1,0 +1,16 @@
+{
+  "otcpaymentRequestReference" : "ORR7547",
+  "payerProductInstanceReference" : "PARR6400",
+  "amount" : "$5000",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "valueDate" : "09-05-2018",
+  "paymentRequestReference" : "PMRE585",
+  "productInstanceReference" : "PIR345",
+  "payerReference" : "PYRE5345",
+  "documentReference" : "DCRE8470",
+  "currency" : "USD",
+  "paymentMechanism" : "SWIFT"
+}

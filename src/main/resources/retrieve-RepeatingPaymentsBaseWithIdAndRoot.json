@@ -1,0 +1,14 @@
+{
+  "repeatingPaymentFacilityReference" : "RPFF6453",
+  "payerProductInstanceReference" : "PARR6400",
+  "amount" : "$5000",
+  "payeeReference" : "PAEE5007",
+  "payeeProductInstanceReference" : "PAIR7456",
+  "customerReference" : "CSRE3456",
+  "payerBankReference" : "PYBR1093",
+  "payeeBankReference" : "PEBR2783",
+  "paymentSchedule" : "1/3/6/12 Months",
+  "currency" : "USD",
+  "repeatingPaymentPurpose" : "Adjustment/Billing",
+  "paymentRequestReference" : "PMRE5850"
+}

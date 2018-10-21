@@ -1,0 +1,9 @@
+{
+  "amount" : "$5000",
+  "complianceCheckReference" : "MN8765",
+  "payeeReference" : "PAEE5007",
+  "customerReference" : "CSRE3456",
+  "payerReference" : "PYRE5345",
+  "paymentPurpose" : "Debt/Bill",
+  "paymentRequestReference" : "PMRE5850"
+}

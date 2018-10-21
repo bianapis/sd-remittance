@@ -1,0 +1,8 @@
+{
+  "productInstanceReference" : "PARR6400",
+  "amount" : "$5000",
+  "customerReference" : "CSRE3456",
+  "fundingCheckReference" : "GS76537",
+  "servicingActionResult" : "Success/Failure",
+  "paymentRequestReference" : "SARE2041"
+}
